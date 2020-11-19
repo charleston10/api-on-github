@@ -3,18 +3,18 @@
         "title": "Novas conexões",
         "subtitle": "Conecte-se com pessoas perto de você",
         "description": "Agora você pode encontrar novas pessoas, fazer amizades e conversar",
-        "image_url": ""
+        "image_url": "https://github.com/charleston10/api-on-github/blob/master/social-network/assets/images/group_selfie.png?raw=true"
     },
     {
         "title": "Interesses em comum",
         "subtitle": "Conexões baseadas em interesses em comumê",
         "description": "Outras pessoas conectadas com o mesmo interesse que você",
-        "image_url": ""
+        "image_url": "https://github.com/charleston10/api-on-github/blob/master/social-network/assets/images/hang_out.png?raw=true"
     },
     {
         "title": "Outras pessoas podem te conhecer",
         "subtitle": "Seu post pode ser visto pelas pessoas ao seu redor",
         "description": "Faça um post e deixe que as pessoas ao seu redor te conheçam",
-        "image_url": ""
+        "image_url": "https://github.com/charleston10/api-on-github/blob/master/social-network/assets/images/fall_comming.png?raw=true"
     }
 ]
